@@ -1,0 +1,25 @@
+﻿
+.prodotto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.dettaglio-prodotto {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+
+.carrello-prodotto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: forestgreen;
+
+}
